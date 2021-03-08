@@ -1,14 +1,12 @@
-const firstName = prompt('Напишите ваше имя');
-const lastName = prompt('Напишите вашу фамилию');
-const age = prompt(`Напишите ваш возраст`);
-const user = {
-    firstName: `${firstName}`,
-    lastName: `${lastName}`,
-    age:`${age}`
-};
+const name = '#'; 
+const lastname = '#######';
 
-console.log (user)
-console.log (user.firstName)
-console.log(user.lastName)
-console.log(user.age)
+
+for ( i = name; i<lastname; i+=name){
+console.log(i);
+}
+
+for (let i = '#'; i <'#######'; i+='#'){
+    console.log(i);
+}
 
