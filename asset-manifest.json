@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/master/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/master/static/js/main.fc3bb037.chunk.js",
+    "main.js.map": "/master/static/js/main.fc3bb037.chunk.js.map",
+    "runtime-main.js": "/master/static/js/runtime-main.8ff018bd.js",
+    "runtime-main.js.map": "/master/static/js/runtime-main.8ff018bd.js.map",
+    "static/js/2.92299f7b.chunk.js": "/master/static/js/2.92299f7b.chunk.js",
+    "static/js/2.92299f7b.chunk.js.map": "/master/static/js/2.92299f7b.chunk.js.map",
+    "static/js/3.12142106.chunk.js": "/master/static/js/3.12142106.chunk.js",
+    "static/js/3.12142106.chunk.js.map": "/master/static/js/3.12142106.chunk.js.map",
+    "index.html": "/master/index.html",
+    "static/css/main.4a4137e4.chunk.css.map": "/master/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.92299f7b.chunk.js.LICENSE.txt": "/master/static/js/2.92299f7b.chunk.js.LICENSE.txt",
+    "static/media/andrew-neel-cckf4TsHAuw-unsplash.9ca46641.jpg": "/master/static/media/andrew-neel-cckf4TsHAuw-unsplash.9ca46641.jpg",
+    "static/media/cross.d69dc0db.svg": "/master/static/media/cross.d69dc0db.svg",
+    "static/media/crossAdd.becc4e0d.svg": "/master/static/media/crossAdd.becc4e0d.svg",
+    "static/media/delete.e20e764e.svg": "/master/static/media/delete.e20e764e.svg",
+    "static/media/kofe.b9026e49.jpg": "/master/static/media/kofe.b9026e49.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff018bd.js",
+    "static/js/2.92299f7b.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.fc3bb037.chunk.js"
+  ]
+}
